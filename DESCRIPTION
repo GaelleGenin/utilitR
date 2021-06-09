@@ -9,7 +9,7 @@ Authors@R: c(
     person("Olivier"         , "Meslin"    , role = c("aut", "cre"), email = "olivier.meslin@insee.fr"),
     person("Gilles"          , "Fidani"    , role = "ctb",           email = "gilles.fidani@insee.fr"),
     person("Pierre"          , "Lamarche"  , role = "ctb",           email = "pierre.lamarche@insee.fr"),
-    person("Gaëlle"          , "Genin"     , role = "ctb",           email = "gaelle.genin@insee.fr"),
+    person("Gaëlle"          , "Génin"     , role = "ctb",           email = "gaelle.genin@insee.fr"),
     person("Romain"          , "Lesur"     , role = "ctb",           email = "romain.lesur@insee.fr"),
     person("Pierre-Yves"     , "Berrard"   , role = "ctb",           email = "pierre-yves.berrard@insee.fr"),
     person("Cédric"          , "Tassart"   , role = "ctb",           email = "cedric.tassart@insee.fr"),
